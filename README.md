@@ -48,8 +48,3 @@ public static void main(String args[])
 } 
 
 ```
-### Reference:
-
-(linear-search)[https://www.javatpoint.com/linear-search-in-java]
-
-(linear-search)[https://www.geeksforgeeks.org/linear-search/]
